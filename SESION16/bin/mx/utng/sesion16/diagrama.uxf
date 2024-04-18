@@ -1,0 +1,10 @@
+<diagram program="umletino" version="15.1"><zoom_level>16</zoom_level><element><id>UMLClass</id><coordinates><x>144</x><y>240</y><w>240</w><h>128</h></coordinates><panel_attributes>bg=Green
+ArchivoTest
+--
+--
++main(String...):void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>432</x><y>208</y><w>320</w><h>240</h></coordinates><panel_attributes>C:/temp/cursos/
+--
+bg=pink
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>464</x><y>288</y><w>224</w><h>112</h></coordinates><panel_attributes>Cursos.txt
+bg=white
+fg=black</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>368</x><y>272</y><w>128</w><h>48</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>60;10;10;10</additional_attributes></element></diagram>
