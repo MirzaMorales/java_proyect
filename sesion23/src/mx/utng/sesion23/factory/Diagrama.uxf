@@ -1,0 +1,12 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notesLogger</help_text><element><id>UMLClass</id><coordinates><x>90</x><y>110</y><w>100</w><h>50</h></coordinates><panel_attributes>Logger
+--
+log:String()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>230</x><y>110</y><w>140</w><h>60</h></coordinates><panel_attributes>FileLogger
+--
+--
+log:String()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>110</y><w>100</w><h>50</h></coordinates><panel_attributes>ConsoleLogger
+--
+log:String()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>110</x><y>290</y><w>110</w><h>50</h></coordinates><panel_attributes>LoggFactory
+--
++getLogger()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>330</x><y>280</y><w>130</w><h>70</h></coordinates><panel_attributes>LoggerTest
+--
++main:String()void</panel_attributes><additional_attributes></additional_attributes></element></diagram>

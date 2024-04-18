@@ -1,0 +1,10 @@
+plugins{
+    id 'application'
+}
+
+application {
+    mainClass = 'mx.utng.sesion20.Ciudadano'
+}
+
+//gradel run nos permite compilar la aplicacion
+//y despues de compilarla ejecutarla (corre el proyecto donde estas como una maquina java machine)
